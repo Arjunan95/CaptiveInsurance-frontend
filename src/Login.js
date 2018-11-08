@@ -489,7 +489,7 @@ export default class Login extends RX.Component {
                         // console.log("rs1 length", rs1)
                         var array = []
                         // var res1 = result.message.length
-                        console.log("res1 length", result.message.length)
+                        //console.log("res1 length", result.message.length)
                         //console.log(result.message[0].Record.status)
                         // function search(statusKey, result) {
                         for (var i = 0; i < result.message.length; i++) {
